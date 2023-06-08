@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow:border-box;
+}
+
+body {
+    background-color: #000;
+    color:#fff ;
+}
+
+header {
+    text-align: center;
+}
+
+figure {
+    display: grid;
+    place-items: center;
+}
+figure img {
+    border-radius: 400px;
+    width: 300px;
+}
+
+section {
+    width: 80%;
+    margin: 10px auto;
+    text-align: center; 
+}
